@@ -1,0 +1,8 @@
+{"level":"info","ts":1710904636.3372002,"caller":"user-web/main.go:30","msg":"%s","url":"hello"}
+{"level":"info","ts":1710904636.337294,"caller":"user-web/main.go:31","msg":"hello :world"}
+{"level":"error","ts":1710904636.337327,"caller":"zap@v1.27.0/sugar.go:257","msg":"Ignored key without a value.","ignored":"world","stacktrace":"go.uber.org/zap.(*SugaredLogger).Infow\n\t/Users/jack/go/pkg/mod/go.uber.org/zap@v1.27.0/sugar.go:257\nmain.main\n\t/Users/jack/go/src/mxshop-api/user-web/main.go:32\nruntime.main\n\t/Users/jack/go/go1.20.7/src/runtime/proc.go:250"}
+{"level":"info","ts":1710904636.337312,"caller":"user-web/main.go:32","msg":"hello :%s"}
+{"level":"info","ts":1710905373.426307,"caller":"user-web/main.go:30","msg":"%s","url":"hello"}
+{"level":"info","ts":1710905373.42666,"caller":"user-web/main.go:31","msg":"hello :world"}
+{"level":"error","ts":1710905373.426713,"caller":"zap@v1.27.0/sugar.go:257","msg":"Ignored key without a value.","ignored":"world","stacktrace":"go.uber.org/zap.(*SugaredLogger).Infow\n\t/Users/jack/go/pkg/mod/go.uber.org/zap@v1.27.0/sugar.go:257\nmain.main\n\t/Users/jack/go/src/mxshop-api/user-web/main.go:32\nruntime.main\n\t/Users/jack/go/go1.20.7/src/runtime/proc.go:250"}
+{"level":"info","ts":1710905373.4266949,"caller":"user-web/main.go:32","msg":"hello :%s"}
